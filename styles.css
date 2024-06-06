@@ -163,3 +163,8 @@ footer{
   margin-top: 75px;
   margin-bottom: 20px;
 }
+
+.pdf-link{
+  color: rgb(13, 13, 159);
+  text-decoration: underline;
+}
